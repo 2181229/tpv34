@@ -74,3 +74,5 @@
 
 * Détail panier (rempli)
 <img src="/_captures/4-detail-panier-rempli.png" alt="Troisième langue" title="Détail panier (rempli)" />
+
+<p> https://2181229.github.io/tpv34/ </p>
